@@ -9,4 +9,4 @@ Below are the steps to replicate this project on your device:
 - Serve the project.
 
 Please note that:
-- Tests are uses the sqlite connection
+- Tests uses the sqlite connection
